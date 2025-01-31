@@ -30,10 +30,8 @@ The repository is organized as follows:
 
 ## Results
 The model achieves the following results:
-
-OCT2017 Dataset: 99.8% accuracy.
-
-Srinivasan2014 Dataset: 100% accuracy.
+- OCT2017 Dataset: 99.8% accuracy.
+- Srinivasan2014 Dataset: 100% accuracy.
 
 ## References
 - Kamran, S. A., Saha, S., Sabbir, A. S., & Tavakkoli, A. (2019). Optic-Net: A Novel Convolutional Neural Network for Diagnosis of Retinal Diseases from Optical Tomography Images. arXiv preprint arXiv:1910.05672.
